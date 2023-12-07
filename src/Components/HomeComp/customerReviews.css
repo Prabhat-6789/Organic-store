@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    height: 350px; /* Set a fixed height for the container */
+    justify-content: space-around;
+  }
+  
+  .div1, .div3 {
+    text-align: center;
+    border: 1px solid #3498db;
+    padding:40px;
+    width:200px;
+  }
+  
+  .div2 {
+     /* Set the width of the second div to be the same as the others */
+    text-align: center;
+    border: 1px solid #3498db;
+    margin-top: -20px; /* Adjust the negative margin to control the height of the second div */
+
+    width: 400px;
+      height: 105%;
+      background-image: url('https://thumbs.dreamstime.com/z/farmer-holding-basket-full-harvest-organic-vegetables-root-garden-autumn-holiday-thanksgiving-77792966.jpg?w=992'); /* Replace 'your-image.jpg' with the path to your image */
+      background-size: cover; /* Cover the entire div with the background image */
+      background-position: center; /* Center the background image */
+      color: red; /* Set text color to white for better visibility */
+      line-height: 200px; /* Center text vertically */
+  }
+  

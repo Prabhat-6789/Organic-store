@@ -1,0 +1,30 @@
+.counter {
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+    background-color: antiquewhite;
+    width:70px;
+    border-radius: 5px;
+    height:50px;
+  }
+  
+  button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 5px;
+    margin: 0 5px;
+  }
+  
+  input {
+    font-size: 18px;
+    padding: 5px;
+    width: 40px;
+    text-align: center;
+  }
+  
+  span {
+    font-size: 18px;
+    cursor: pointer;
+  }

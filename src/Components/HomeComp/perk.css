@@ -1,0 +1,7 @@
+.perks{
+    color:white;
+    display:flex;
+    justify-content: space-around;
+    background-color: #353935;
+    border-radius: 5px;
+}

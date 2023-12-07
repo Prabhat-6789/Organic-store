@@ -1,0 +1,8 @@
+.offer-parent{
+    background-color: black;
+    display:flex;
+    justify-content: space-around;
+    color:white;
+    padding:20px;
+    margin-bottom: 90px;
+}

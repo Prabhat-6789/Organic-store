@@ -1,0 +1,10 @@
+.leaf-image{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.vegetable-item{
+    display:flex;
+    justify-content: space-between;
+}

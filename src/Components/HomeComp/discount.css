@@ -1,0 +1,9 @@
+  .arrow{
+    display:flex;
+    background-color: black;
+    margin-top: 30px;
+    height:90px;
+    padding:20px;
+    justify-content: space-around;
+    margin-bottom:50px;
+  }
